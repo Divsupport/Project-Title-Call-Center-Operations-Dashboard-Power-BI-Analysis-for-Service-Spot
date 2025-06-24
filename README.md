@@ -5,8 +5,6 @@ This Power BI project was completed as part of an academic assignment, where the
 
 The goal was to build a robust Power BI report using proper data modeling, data transformations, DAX measures, and impactful visuals that provide answers to key business questions.
 
-![image](https://github.com/user-attachments/assets/44d5b659-637f-42f3-8ed6-bb57c861db62)
-
 #  Project Objectives
 
 - Import and clean data from multiple sources using Power Query.
@@ -18,4 +16,12 @@ The goal was to build a robust Power BI report using proper data modeling, data 
 - Design a multi-page Power BI dashboard to present business insights.
 
 - Enable intuitive report navigation for end-users.
+
+# Key Business Questions Addressed
+
+1. SLA Compliance
+
+What percentage of calls were answered within the SLA (under 65 seconds) per employee?
+
+![image](https://github.com/user-attachments/assets/44d5b659-637f-42f3-8ed6-bb57c861db62)
 
