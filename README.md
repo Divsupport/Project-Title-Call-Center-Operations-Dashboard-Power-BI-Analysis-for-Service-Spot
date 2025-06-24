@@ -74,6 +74,45 @@ The goal was to build a robust Power BI report using proper data modeling, data 
 ![image](https://github.com/user-attachments/assets/30be9d40-80b1-4ede-864c-4c089aadd7da)
 
 
+# Additional Insights & Features
+- SLA status tagging using conditional logic.
+
+- Interactive filters for employee, site, and call type.
+
+- Custom DAX measures for dynamic KPIs and averages.
+
+- Report navigation buttons for seamless user experience.
+
+- Professional visual theme with clear labels and grouping.
+
+# Data Modeling
+
+- Fact Table: Fact_Table_All_Calls – includes all call-related metrics.
+
+- Dimension Tables: Employee, Date, Call Type, etc.
+
+- Separated date and time columns for best practices in datetime analysis.
+
+
+ # Tools Used
+
+- Power BI Desktop
+
+- Power Query
+
+- DAX (Data Analysis Expressions)
+
+- Star Schema Data Modeling
+
+# Project Files
+
+Data.pbix – Full Power BI report
+
+README.md – Project description and documentation
+
+
+
+
 
 
 
