@@ -41,31 +41,37 @@ The goal was to build a robust Power BI report using proper data modeling, data 
 
 - What is the average waiting time across different periods of the day:
 
-Early morning (6–9am)
+- Early morning (6–9am)
 
-Late morning (9am–12pm)
+- Late morning (9am–12pm)
 
-Early afternoon (12–3pm)
+- Early afternoon (12–3pm)
 
-Late afternoon (3–6pm)
+- Late afternoon (3–6pm)
 
-Evening (6–9pm)
+- Evening (6–9pm)
 
 ![image](https://github.com/user-attachments/assets/a8e15174-f3ee-4124-bc22-c0857dc80054)
 
-5. 
+5. Revenue Insights
+
+- Which call center sites generate the most revenue?
+
+![image](https://github.com/user-attachments/assets/ad197c3d-3940-4cf5-b9b7-ee68c20188d9)
 
 
+6. Call Volume by Day
+
+- On which day does the company receive the most/least calls?
+
+![image](https://github.com/user-attachments/assets/eabfdf95-e06d-4a66-9046-3ff58b27ad80)
 
 
+7. Abandonment Behavior
 
+- What is the average time before a call is abandoned per call type?
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/30be9d40-80b1-4ede-864c-4c089aadd7da)
 
 
 
