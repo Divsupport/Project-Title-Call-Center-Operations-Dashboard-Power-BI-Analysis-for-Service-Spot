@@ -7,3 +7,15 @@ The goal was to build a robust Power BI report using proper data modeling, data 
 
 ![image](https://github.com/user-attachments/assets/44d5b659-637f-42f3-8ed6-bb57c861db62)
 
+#  Project Objectives
+
+- Import and clean data from multiple sources using Power Query.
+
+- Build a star schema data model with one central fact table.
+
+- Create calculated columns and DAX measures to extract business KPIs.
+
+- Design a multi-page Power BI dashboard to present business insights.
+
+- Enable intuitive report navigation for end-users.
+
