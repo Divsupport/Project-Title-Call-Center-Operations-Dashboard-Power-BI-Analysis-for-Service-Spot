@@ -21,7 +21,61 @@ The goal was to build a robust Power BI report using proper data modeling, data 
 
 1. SLA Compliance
 
-What percentage of calls were answered within the SLA (under 65 seconds) per employee?
+- What percentage of calls were answered within the SLA (under 65 seconds) per employee?
 
 ![image](https://github.com/user-attachments/assets/44d5b659-637f-42f3-8ed6-bb57c861db62)
+
+2. Employee Efficiency
+
+- What is the average call duration per employee?
+
+![image](https://github.com/user-attachments/assets/2785d0f4-eb0f-49d9-b673-7f2c7c65aba6)
+
+3. Manager Performance
+
+- Which managers have teams that answer the most calls?
+
+![image](https://github.com/user-attachments/assets/c261a89a-85d7-46cb-956f-d3fb61626d20)
+
+4. Time-of-Day Performance
+
+- What is the average waiting time across different periods of the day:
+
+Early morning (6–9am)
+
+Late morning (9am–12pm)
+
+Early afternoon (12–3pm)
+
+Late afternoon (3–6pm)
+
+Evening (6–9pm)
+
+![image](https://github.com/user-attachments/assets/a8e15174-f3ee-4124-bc22-c0857dc80054)
+
+5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
